@@ -1,0 +1,4 @@
+
+run: gcc -o wash wash.c -lpthread -lm; ./wash 10 2 5 60
+
+![תמונה1](https://github.com/OrtalNosik/Operating-Systems/assets/93153515/6d01fe0e-64b2-45b2-982a-4b6370fa7d66)
